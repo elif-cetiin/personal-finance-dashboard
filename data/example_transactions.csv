@@ -1,0 +1,7 @@
+date,description,amount,currency,type
+2025-01-01,Starbucks,-5.25,USD,debit
+2025-01-01,Walmart,-42.70,USD,debit
+2025-01-02,Uber,-18.00,USD,debit
+2025-01-03,Amazon,-65.23,USD,debit
+2025-01-05,Salary,2500.00,USD,credit
+2025-01-06,Shell Gas,-32.90,USD,debit
